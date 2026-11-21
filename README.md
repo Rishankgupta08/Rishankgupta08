@@ -32,7 +32,7 @@
 - 📊 748+ Problems Solved
 - 📈 LeetCode Contest Rating: 1789
 - 🧠 Consistently learning and building every day
-[![FLISK HALL OF FAME @Rishankgupta08 • 1 merged PR](https://img.shields.io/badge/FLISK%20HALL%20OF%20FAME-%40Rishankgupta08%20%E2%80%A2%201%20merged%20PR-06b6d4?style=for-the-badge&labelColor=07080f)](https://github.com/flisk-sh/flisk/issues?q=is%3Aissue+is%3Aopen+label%3Acommunity)
+- [![FLISK HALL OF FAME @Rishankgupta08 • 1 merged PR](https://img.shields.io/badge/FLISK%20HALL%20OF%20FAME-%40Rishankgupta08%20%E2%80%A2%201%20merged%20PR-06b6d4?style=for-the-badge&labelColor=07080f)](https://github.com/flisk-sh/flisk/issues?q=is%3Aissue+is%3Aopen+label%3Acommunity)
 ---
 
 # 🌐 Connect With Me
